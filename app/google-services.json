@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "547607712674",
+    "firebase_url": "https://fcmdemo-1c24c.firebaseio.com",
+    "project_id": "fcmdemo-1c24c",
+    "storage_bucket": "fcmdemo-1c24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547607712674:android:14909f2a65ade467",
+        "android_client_info": {
+          "package_name": "com.manroid.fcmfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547607712674-rdsqf9f2mpgc6mpf8sqgui6pv2ufjoij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxXNvJXsFIq9pK44G1qQcuy-u4c4-NzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547607712674-rdsqf9f2mpgc6mpf8sqgui6pv2ufjoij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
